@@ -1,4 +1,4 @@
-```fee fi fo fum
+```
 // algún código de ejemplo
 ```
 
